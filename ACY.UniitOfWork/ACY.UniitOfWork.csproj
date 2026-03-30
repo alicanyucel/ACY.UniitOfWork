@@ -4,6 +4,17 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <!-- NuGet metadata -->
+    <PackageId>ACY.UnitOfWork</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Ali Can Yücel</Authors>
+    <Company>ACY</Company>
+    <Description>Lightweight Unit of Work Pattern implementation for .NET projects.</Description>
+    <PackageTags>unitofwork;repository;pattern;acy</PackageTags>
+    <RepositoryUrl>https://github.com/alicanyucel/ACY.UnitOfWork</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/alicanyucel/ACY.UnitOfWork</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>
